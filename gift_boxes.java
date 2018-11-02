@@ -1,3 +1,4 @@
 dry_fruit_balls
-choco_cakes
+choco_cakes : pineapple flavour
 cookies
+PIZZA
